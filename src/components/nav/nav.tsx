@@ -30,16 +30,6 @@ let menuList: Array<IMenu> = [
   },
 ];
 
-function Menu() {
-  return (
-    <div className="flex justify-end">
-      <li>
-        <Link href="/" className=""></Link>
-      </li>
-    </div>
-  );
-}
-
 export default function NavBar() {
   return (
     <>

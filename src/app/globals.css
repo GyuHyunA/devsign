@@ -9,5 +9,7 @@
 }
 
 body{
-  margin: 0 325px;
+  margin: 0 auto;
+  width: 1270px;
+  /* margin: 0 325px; */
 }
